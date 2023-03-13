@@ -1,0 +1,2 @@
+let loginMenuItem = document.querySelector('.menu-item.item-login');
+loginMenuItem.innerHTML = '<a href="https://calendly.com/jaimemcclintock_realtor/new-client">Book Now</a>';
